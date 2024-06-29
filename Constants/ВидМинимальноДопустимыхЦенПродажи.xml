@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Constant uuid="608d79ff-974a-41f2-b069-01ca54f8ec49">
+		<InternalInfo>
+			<xr:GeneratedType name="ConstantManager.ВидМинимальноДопустимыхЦенПродажи" category="Manager">
+				<xr:TypeId>a39d1c16-64ee-43c8-bacd-70244b3679af</xr:TypeId>
+				<xr:ValueId>5d836064-bb5c-4e4f-91b8-a178cfc7c8f2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ConstantValueManager.ВидМинимальноДопустимыхЦенПродажи" category="ValueManager">
+				<xr:TypeId>251e0147-c209-4d93-9976-94b5949ad2be</xr:TypeId>
+				<xr:ValueId>8b1154d5-c52e-4e84-a325-ea9751acc868</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ConstantValueKey.ВидМинимальноДопустимыхЦенПродажи" category="ValueKey">
+				<xr:TypeId>15f481fd-72c1-4ae4-93f1-2223113d599f</xr:TypeId>
+				<xr:ValueId>3ecc6b21-bdb4-41a5-94b6-6ae9440a6f42</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидМинимальноДопустимыхЦенПродажи</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5ab3ce0e-0ef3-4b3b-967a-7a84f7c9f07b</ExtendedConfigurationObject>
+			<Type>
+				<v8:Type>cfg:CatalogRef.ВидыЦен</v8:Type>
+			</Type>
+		</Properties>
+	</Constant>
+</MetaDataObject>

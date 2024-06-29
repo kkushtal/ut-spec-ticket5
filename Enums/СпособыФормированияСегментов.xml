@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Enum uuid="62adeb3c-203a-4476-89dd-f75b4d0a06d7">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СпособыФормированияСегментов" category="Ref">
+				<xr:TypeId>0be2cedf-9755-4e65-86c6-6f7a6ba2fa4b</xr:TypeId>
+				<xr:ValueId>a9dc615a-ce75-4451-816c-dfbdab6773b1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СпособыФормированияСегментов" category="Manager">
+				<xr:TypeId>f272203c-3219-41f8-a73d-b3e5d67cb012</xr:TypeId>
+				<xr:ValueId>eb199663-3664-45a1-80ab-27da00460ed4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СпособыФормированияСегментов" category="List">
+				<xr:TypeId>ef7f082a-765e-447b-862f-1cfa8204ca84</xr:TypeId>
+				<xr:ValueId>8c2ed09c-d9b4-4534-ac62-8140618657eb</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СпособыФормированияСегментов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8d80942d-60a7-4f33-9707-68aa5d077496</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="d6c48a27-9e45-4a59-ac87-5cd9c1e6c194">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ФормироватьВручную</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>e14b9750-5d04-4861-9a6b-3da72b48a5b5</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="cede2243-ec6c-4cbc-a5ab-1aae4935bc9e">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ПериодическиОбновлять</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>2d6ce8b0-5b77-4b73-93e5-829242f25c0d</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
