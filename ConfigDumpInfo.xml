@@ -45,7 +45,7 @@
 		<Metadata name="DefinedType.ДенежнаяСуммаЛюбогоЗнака" id="4c43feeb-f899-4923-94f2-bb3d2a9c0188" configVersion="70e959aad9b3dd7e5909d4d36fe06d5670327a59"/>
 		<Metadata name="DefinedType.ДенежнаяСуммаНеотрицательная" id="ededb872-acd4-4f76-8599-6bf99d49c057" configVersion="b2597cc88b19c0c5d2c82820a57d07fc2d9ab056"/>
 		<Metadata name="DefinedType.Цена" id="37870b7d-e843-46ca-9a91-499f99257fb9" configVersion="9e643346dd343660cd894f127262519e18ee79c4"/>
-		<Metadata name="Document.ЗаказКлиента" id="1d8a7108-0005-485f-b944-c6e8f06fdfff" configVersion="fef7b6f75a82a5633c61e3621786c5abba6241bb">
+		<Metadata name="Document.ЗаказКлиента" id="1d8a7108-0005-485f-b944-c6e8f06fdfff" configVersion="533783bf290bfc14aef72a6c8210866d84dba5e7">
 			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.ВариантОбеспечения" id="0060b56d-03a0-4959-8440-0abcc2139c01"/>
 			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.НоменклатураНабора" id="040e0d40-9801-4ca2-ba94-e528c70949df"/>
 			<Metadata name="Document.ЗаказКлиента.Attribute.Склад" id="051554c7-9f36-4eaf-978b-1fa2f944947f"/>
@@ -123,9 +123,9 @@
 			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Характеристика" id="f63f1e34-5aa8-4b18-9c5b-609fed8d349e"/>
 			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары" id="fdc4ea97-9321-494d-aeea-6683386f1dd7"/>
 		</Metadata>
-		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента" id="0fcb9003-108e-4f95-8076-80573e2b3c2d" configVersion="80e100028c7f2cec14424d8560ee798d5950c43d"/>
-		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента.Form" id="0fcb9003-108e-4f95-8076-80573e2b3c2d.0" configVersion="34eac4146d9717a9bc1fffca67116c7e8c1556a0"/>
-		<Metadata name="Document.ЗаказКлиента.ObjectModule" id="1d8a7108-0005-485f-b944-c6e8f06fdfff.0" configVersion="cd29d492b2e3235c438b19a66b8d486a58426be4"/>
+		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента" id="0fcb9003-108e-4f95-8076-80573e2b3c2d" configVersion="aa06f04a33b3d5f28e2518867f386b18c8cfe96d"/>
+		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента.Form" id="0fcb9003-108e-4f95-8076-80573e2b3c2d.0" configVersion="0616aa7d0dc8da4e39f62130d16470fe4e1cd73a"/>
+		<Metadata name="Document.ЗаказКлиента.ObjectModule" id="1d8a7108-0005-485f-b944-c6e8f06fdfff.0" configVersion="c24a5744be0631949361ca5761d5eefee4533873"/>
 		<Metadata name="Enum.ВариантыОбеспечения" id="ad99ee5c-38e4-4781-90af-b8cb4e6fecbf" configVersion="8c9bf57c6d743be87c8abb97cf9d48853e28dbd8"/>
 		<Metadata name="Enum.ВариантыОформленияПродажи" id="7b275e85-6456-443d-b14c-c0c93d2ded2e" configVersion="5fe6fecee89aa260c251a2e4ad065b1573ca019c"/>
 		<Metadata name="Enum.СпособыДоставки" id="0f9a0d83-e779-4533-b5b2-cf6f1c79e4fc" configVersion="a0dd9caaf271632006afef9eeb670d5564c0a0d7">
